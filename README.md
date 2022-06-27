@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxoblein
 - 👀 I’m interested in Data science and machine learning.
 - 🌱 I’m currently learning deep learning with Tensorflow and Pytorch
-- 💞️ I’m looking to collaborate on projects open to juniors.
+- 💞️ I’m looking to develop my skills within machine learning.
 - 📫 How to reach me max.oblein@gmail.com.
 
 <!---
